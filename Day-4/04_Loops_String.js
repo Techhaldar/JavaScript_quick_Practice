@@ -32,3 +32,4 @@ let words = Sentence.split(" ");
 
 console.log(typeof (words));
 console.log(words);
+

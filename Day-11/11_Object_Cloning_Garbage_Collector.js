@@ -20,7 +20,7 @@
 // console.log("dest: ", dest);
 // console.log("src: ", src)
 
-// Method-3 Object Cloning
+// Method - 3 Object Cloning
 
 let src = {
   age: 19,
@@ -41,3 +41,4 @@ src.age = 90;
 console.log("dest: ", dest);
 
 console.log("src: ", src);
+
